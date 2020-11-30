@@ -6,6 +6,7 @@
 *   Activación LeakyReLU(alpha=0.1)
 *   SGD Learning Rate 1e-2
 *   2000 epochs
+
 Validación:
 *   loss (mse): 1.5672e-05
 *   mean_absolute_error: 0.0017
