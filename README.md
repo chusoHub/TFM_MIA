@@ -16,6 +16,3 @@ Test:
 *   mean_squared_logarithmic_error: 2.3513e-04
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv1.ipynb)
-
- [SchNet 3](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/SchNet_H2O_3.ipynb)
- 
