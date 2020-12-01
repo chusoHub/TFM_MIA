@@ -2,9 +2,9 @@
 ## Inspección visual de los datos
 [Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
 
-## Modelos Secuenciales SGD
+### Modelos Secuenciales SGD
 <details>
-<summary>Write Markdown!</summary>
+<summary>Detalles</summary>
 <!--All you need is a blank line-->
 
 ## Modelo SGD 1
@@ -56,6 +56,7 @@ Test:
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb)
 </details>
+
 ### Modelo RMSprop  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
