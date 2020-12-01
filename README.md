@@ -149,6 +149,7 @@ Test:
 [Archivo: Modelos_Secuencial/TFM_seq_3cv6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv6.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 </details>
+
 ## Modelos SchNet
 <details>
 <summary>Listado</summary>
