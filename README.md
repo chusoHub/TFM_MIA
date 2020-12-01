@@ -4,6 +4,9 @@
 
 ## Modelos Secuenciales SGD
 <details>
+<summary>Write Markdown!</summary>
+<!--All you need is a blank line-->
+
 ## Modelo SGD 1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
