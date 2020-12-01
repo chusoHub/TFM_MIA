@@ -2,8 +2,9 @@
 ## Inspección visual de los datos
 [Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
 
-<details><summary><h1>Modelos Secuenciales SGD</h1></summary>
-## Modelo SGD 1
+## Modelos Secuenciales SGD
+<details>
+### Modelo SGD 1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
 *   SGD Learning Rate 1e-2
@@ -18,7 +19,7 @@ Test:
 *   mean_absolute_error: 0.0022
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv1.ipynb)
-## Modelo SGD 2
+### Modelo SGD 2
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
 *   SGD Learning Rate 1e-2
@@ -36,7 +37,7 @@ Test:
 *   mean_absolute_error: 0.0021
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv4.ipynb)
-## Modelo SGD 3
+### Modelo SGD 3
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
 *   SGD Learning Rate 1e-6
@@ -52,7 +53,7 @@ Test:
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb)
 </details>
-## Modelo RMSprop  1
+### Modelo RMSprop  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
 *   RMSprop Learning Rate 1e-2
@@ -66,7 +67,7 @@ Test:
 *   mean_absolute_error: 0.0057 
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb)
-## Modelo Adam  1
+### Modelo Adam  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
 *   Adam Learning Rate 1e-2
