@@ -1,6 +1,6 @@
 # TFM_MIA
 ## Inspección visual de los datos
-[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb){:target="_blank"}
+[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
 
 <a href="https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb" target="_blank">Archivo: Datos/Inspección_visual_TFM.ipynb</a>
 
