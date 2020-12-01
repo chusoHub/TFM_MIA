@@ -1,9 +1,6 @@
 # TFM_MIA
 ## Inspección visual de los datos
-[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
-
-<a href="https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb" target="_blank">Archivo: Datos/Inspección_visual_TFM.ipynb</a>
-
+[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb) (New Tab CTRL +Clik)
 
 ## Modelos Secuenciales SGD
 <details>
@@ -24,7 +21,7 @@ Test:
 *   loss (mse): 4.8378e-04
 *   mean_absolute_error: 0.0022
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv1.ipynb)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv1.ipynb) (New Tab CTRL +Clik)
 ### Modelo SGD 2
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -42,7 +39,7 @@ Test:
 *   loss (mse): 4.8143e-04 
 *   mean_absolute_error: 0.0021
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv4.ipynb)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv4.ipynb) (New Tab CTRL +Clik)
 ### Modelo SGD 3
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -57,7 +54,7 @@ Test:
 *   loss (mse): 0.0363 
 *   mean_absolute_error: 0.1458 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb) (New Tab CTRL +Clik)
 </details>
 
 ## Modelos Secuenciales Adam
@@ -77,7 +74,7 @@ Test:
 *   loss (mse): 4.8438e-04 
 *   mean_absolute_error: 0.0047 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv3.ipynb)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv3.ipynb) (New Tab CTRL +Clik)
 
 </details>
 
@@ -99,7 +96,7 @@ Test:
 *   loss (mse): 5.3990e-04 
 *   mean_absolute_error: 0.0057 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb) (New Tab CTRL +Clik)
 
 
 </details>
