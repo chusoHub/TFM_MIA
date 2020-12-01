@@ -161,6 +161,7 @@ Test:
 *   n_interactions=5
 *   cutoff=4.
 *   cutoff_network=HardCutoff
+*   ReduceLROnPlateauHook hasta 1e-6
 
 
 Validación:
