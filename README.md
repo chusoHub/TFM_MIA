@@ -96,7 +96,7 @@ Test:
 *   loss (mse): 5.3990e-04 
 *   mean_absolute_error: 0.0057 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb) (New Tab CTRL +Clik)
+[Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb) <sub>New Tab CTRL + Clik</sub>
 
 
 </details>
@@ -121,7 +121,7 @@ Validación:
 Test:
 *   mean_absolute_error: 0.005525
 
-[Archivo: Modelos_Schnet/SchNet_H2O_6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_6.ipynb)
+[Archivo: Modelos_Schnet/SchNet_H2O_6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_6.ipynb) <sub>New Tab CTRL + Clik</sub>
 
 
 </details>
