@@ -1,6 +1,8 @@
 # TFM_MIA
 ## Inspección visual de los datos
 [Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
+
+<details><summary><h1>Modelos Secuenciales SGD</h1></summary>
 ## Modelo SGD 1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -34,6 +36,22 @@ Test:
 *   mean_absolute_error: 0.0021
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv4.ipynb)
+## Modelo SGD 3
+*   3 capas ocultas densas de 200, 500 y 500 unidades
+*   Activación 'Relu'
+*   SGD Learning Rate 1e-6
+*   2000 epochs
+
+Validación:
+*   loss (mse): 0.0705 
+*   mean_absolute_error: 0.1821  
+
+Test:
+*   loss (mse): 0.0363 
+*   mean_absolute_error: 0.1458 
+
+[Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb)
+</details>
 ## Modelo RMSprop  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
