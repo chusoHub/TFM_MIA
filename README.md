@@ -1,6 +1,6 @@
 # TFM_MIA
 ## Inspección visual de los datos
-[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb) (New Tab CTRL +Clik)
+[Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb) <sub>(New Tab CTRL +Clik)</sub>
 
 ## Modelos Secuenciales SGD
 <details>
