@@ -2,9 +2,12 @@
 ## Inspección visual de los datos
 [Archivo: Datos/Inspección_visual_TFM.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb)
 
+<a href="https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Datos/Inspección_visual_TFM.ipynb" target="_blank">Datos/Inspección_visual_TFM.ipynb</a>
+
+
 ## Modelos Secuenciales SGD
 <details>
-<summary>Detalles</summary>
+<summary>Listado</summary>
 <!--All you need is a blank line-->
 
 ### Modelo SGD 1
@@ -59,7 +62,7 @@ Test:
 
 ## Modelos Secuenciales Adam
 <details>
-<summary>Detalles</summary>
+<summary>Listado</summary>
 
 ### Modelo Adam  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
@@ -81,7 +84,7 @@ Test:
 
 ## Modelos Secuenciales RMSprop
 <details>
-<summary>Detalles</summary>
+<summary>Listado</summary>
 
 ### Modelo RMSprop  1
 *   3 capas ocultas densas de 200, 500 y 500 unidades
@@ -104,7 +107,7 @@ Test:
 
 ## Modelos SchNet
 <details>
-<summary>Detalles</summary>
+<summary>Listado</summary>
 
 ### Modelo SchNet  1
 *   n_atom_basis=30
