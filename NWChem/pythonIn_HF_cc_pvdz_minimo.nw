@@ -1,0 +1,35 @@
+ basis noprint; H library cc-pvdz; O library cc-pvdz; end
+
+python
+ import math
+ plotdata = open("output_plotdata_ccpvdz_HF_minimo.csv",'w')
+ plotdata.write('rh1,rh2,ang,energia\n')
+ 
+ ang = 104.5
+ seno = math.sin(ang*math.pi/180/2)
+ coseno = math.cos(ang*math.pi/180/2)
+ rh1 = 1.75
+ while rh1 <= 1.82:
+   yh1= rh1*seno
+   zh1= rh1*coseno
+   rh2 = 1.75
+   while rh2 <= 1.82:
+      yh2= -rh2*seno
+      zh2= rh2*coseno
+      input_parse('''
+              geometry noprint units atomic noautoz
+              O 0   0   0
+              H 0  %f  %f
+              H 0  %f  %f
+              end
+              ''' % (yh1, zh1, yh2, zh2))
+      energy = task_energy('scf')
+      plotdata.write('%6.4f,%6.4f,%6.3f,%9.6f\n' % (rh1, rh2, ang, energy))
+      #print ('%6.4f %6.4f %6.4f %6.4f %6.4f %6.4f %6.3f %9.6f' % (yh1, zh1, yh2, zh2, rh1, rh2, ang, energy))
+      rh2 = rh2 + 0.005
+   rh1 = rh1 + 0.005
+ plotdata.close()
+end
+
+print none  
+task python

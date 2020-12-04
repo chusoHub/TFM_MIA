@@ -1,0 +1,47 @@
+ basis noprint; H library cc-pvdz; O library cc-pvdz; end
+
+python
+ import math
+ import numpy as np
+ #plotdata = open("output_plotdata_ccpvdz_HF_test.csv",'w')
+ #plotdata.write('rh1,rh2,ang,energia\n')
+ #plotdata.close()
+ 
+
+ 
+ i= 0
+ while i < 500:
+      #ang = np.round(np.random.rand(), decimals = 5)*20+94.5
+      #rh1 = np.round(np.random.rand(), decimals = 5)*2+0.8
+      #rh2 = np.round(np.random.rand(), decimals = 5)*2+0.8
+      ang = np.round(np.random.rand(), decimals = 5)*10+99.5
+      rh1 = np.round(np.random.rand(), decimals = 5)*1+1.3
+      rh2 = np.round(np.random.rand(), decimals = 5)*1+1.3
+      i= i+1
+      seno = math.sin(ang*math.pi/180/2)
+      coseno = math.cos(ang*math.pi/180/2)
+      plotdata = open("output_plotdata_ccpvdz_HF_test.csv",'a')
+      yh1= rh1*seno
+      zh1= rh1*coseno
+      yh2= -rh2*seno
+      zh2= rh2*coseno
+      input_parse('''
+              geometry noprint units atomic noautoz
+              O 0   0   0
+              H 0  %f  %f
+              H 0  %f  %f
+              end
+              ''' % (yh1, zh1, yh2, zh2))
+      try:  
+        task_energy('scf')  
+      except message:  
+        print(str(message))
+      else: 
+       energy = task_energy('scf')
+       plotdata.write('%6.4f,%6.4f,%6.3f,%9.6f\n' % (rh1, rh2, ang, energy))
+      finally:
+       plotdata.close()
+end
+
+print none  
+task python
