@@ -23,7 +23,7 @@ Test:
 *   loss (mse): 4.8378e-04
 *   mean_absolute_error: 0.0022
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv1.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv1.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 2
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -43,7 +43,7 @@ Test:
 *   loss (mse): 4.8143e-04 
 *   mean_absolute_error: 0.0021
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv4.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv4.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 3
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -60,7 +60,7 @@ Test:
 *   loss (mse): 0.0363 
 *   mean_absolute_error: 0.1458 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv5.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv5.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 4
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación 'Relu'
@@ -77,7 +77,7 @@ Test:
 *   loss (mse): 4.6964e-04  
 *   mean_absolute_error: 0.0018 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv8.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv8.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv8.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv8.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 5
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación 'Relu'
@@ -94,7 +94,7 @@ Test:
 *   loss (mse): 0.0693  
 *   mean_absolute_error: 0.1239
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv9.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv9.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv9.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv9.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 6
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 1000 unidades
 *   Activación 'Relu'
@@ -111,7 +111,7 @@ Test:
 *   loss (mse): 4.8224e-04 
 *   mean_absolute_error: 0.0018 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv12.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv12.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv12.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv12.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 7
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -128,7 +128,7 @@ Test:
 *   loss (mse): 4.6974e-04 
 *   mean_absolute_error: 0.0018 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv13.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv13.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 8
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación 'Relu'
@@ -145,7 +145,7 @@ Test:
 *   loss (mse): 4.7878e-04 
 *   mean_absolute_error: 0.0017
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv15ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv15.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv15ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv15.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 9
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 1000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -162,7 +162,7 @@ Test:
 *   loss (mse): 4.7708e-04 
 *   mean_absolute_error: 0.0018
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv18.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv18.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv18.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv18.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 10
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -179,7 +179,7 @@ Test:
 *   loss (mse): 4.8066e-04 
 *   mean_absolute_error: 0.0017
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv20.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv20.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv20.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv20.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 11
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1) 
@@ -197,7 +197,7 @@ Test:
 *   loss (mse): 4.7173e-04 
 *   mean_absolute_error: 0.0015
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv22.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv22.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv22.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv22.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 12
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -215,7 +215,7 @@ Test:
 *   loss (mse): 9.2066e-06 
 *   mean_absolute_error: 0.0010
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv26.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv26.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv26.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv26.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 13
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -233,7 +233,7 @@ Test:
 *   loss (mse): 5.1486e-04 
 *   mean_absolute_error: 0.0016 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv30.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv30.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv30.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv30.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 14
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -250,7 +250,7 @@ Test:
 *   loss (msle): 2.3492e-04 
 *   mean_absolute_error: 0.0021 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv31.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv31.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv31.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv31.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 15
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -269,7 +269,7 @@ Test:
 *   loss (msle): 2.3345e-04 
 *   mean_absolute_error: 0.0014 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv33.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv33.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv33.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv33.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 
 </details>
@@ -294,7 +294,7 @@ Test:
 *   loss (mse): 4.8438e-04 
 *   mean_absolute_error: 0.0047 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv3.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv3.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam  2
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -311,7 +311,7 @@ Test:
 *   loss (mse): 4.9038e-04 
 *   mean_absolute_error: 0.0049 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv7.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv7.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv7.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv7.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam  3
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación 'Relu'
@@ -328,7 +328,7 @@ Test:
 *   loss (mse): 4.7965e-04 
 *   mean_absolute_error: 0.0020 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv11.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv11.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv11.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv11.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam  4
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -346,7 +346,7 @@ Test:
 *   loss (mse): 4.7908e-04  
 *   mean_absolute_error: 0.0018  
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv14.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv14.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv14.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv14.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam  5
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 1000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -363,7 +363,7 @@ Test:
 *   loss (mse): 4.8188e-04 
 *   mean_absolute_error: 0.0017
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv16.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv16.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv16.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv16.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam 6
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -380,7 +380,7 @@ Test:
 *   loss (mse): 5.2285e-04 
 *   mean_absolute_error: 0.0018
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv17.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv17.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv17.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv17.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam 7
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -398,7 +398,7 @@ Test:
 *   loss (mse): 4.8191e-04 
 *   mean_absolute_error: 0.0019
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv19.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv19.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv19.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv19.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo Adam 8
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
@@ -416,7 +416,7 @@ Test:
 *   loss (mse): 8.7174e-04 
 *   mean_absolute_error: 0.0032 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv21.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv21.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv21.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv21.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam 9
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -434,7 +434,7 @@ Test:
 *   loss (mse): 5.2445e-04 
 *   mean_absolute_error: 0.0017 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv23.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv23.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv23.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv23.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam 10
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -451,7 +451,7 @@ Test:
 *   loss (mse): 6.3948e-04 
 *   mean_absolute_error: 0.0108  
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv24.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv24.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv24.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv24.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo Adam 11
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación LeakyReLU(alpha=0.1)
@@ -470,7 +470,7 @@ Test:
 *   loss (mse): 9.5112e-04 
 *   mean_absolute_error: 0.0032 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv25.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv25.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv25.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv25.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo Adam 12
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
@@ -489,7 +489,7 @@ Test:
 *   loss (mse): 0.0033 
 *   mean_absolute_error: 0.0113 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv27.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv27.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv27.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv27.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo Adam 13
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
@@ -507,7 +507,7 @@ Test:
 *   loss (mse): 0.0012 
 *   mean_absolute_error: 0.0021 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv28.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv28.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv28.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv28.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo Adam 14
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
@@ -526,7 +526,7 @@ Test:
 *   loss (mse): 6.6990e-04 
 *   mean_absolute_error: 0.0039 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv29.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv29.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv29.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv29.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo Adam 15
 *   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
@@ -545,7 +545,7 @@ Test:
 *   loss (mse): 9.7463e-04 
 *   mean_absolute_error: 0.0013 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv32.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv32.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv32.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv32.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 
 </details>
@@ -571,7 +571,7 @@ Test:
 *   loss (mse): 5.3990e-04 
 *   mean_absolute_error: 0.0057 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv2.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv2.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo RMSprop 2
 *   3 capas ocultas densas de 200, 500 y 500 unidades
 *   Activación 'Relu'
@@ -588,7 +588,7 @@ Test:
 *   loss (mse): 4.5581e-04 
 *   mean_absolute_error: 0.0024 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv6.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv6.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo RMSprop 3
 *   5 capas ocultas densas de 200, 500, 500, 1000, 1000 unidades
 *   Activación 'Relu'
@@ -605,7 +605,7 @@ Test:
 *   loss (mse): 4.5930e-04 
 *   mean_absolute_error: 0.0024 
 
-[Archivo: Modelos_Secuencial/TFM_seq_3cv10.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv10.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_Keras_Secuenciales/TFM_seq_3cv10.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/TFM_seq_3cv10.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 </details>
 
