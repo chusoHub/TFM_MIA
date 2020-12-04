@@ -251,6 +251,25 @@ Test:
 *   mean_absolute_error: 0.0021 
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv31.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv31.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SGD 15
+*   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
+*   Activación LeakyReLU(alpha=0.1)
+*   Loss MSLE
+*   Métrica MAE
+*   SGD Learning Rate 1e-2 Momentum 0.0
+*   2000 epochs
+*   Reentrenamiento 1e-4, 25 epochs
+
+
+Validación:
+*   loss (msle): 4.1691e-06 
+*   mean_absolute_error: 9.7133e-04
+
+Test:
+*   loss (msle): 2.3345e-04 
+*   mean_absolute_error: 0.0014 
+
+[Archivo: Modelos_Secuencial/TFM_seq_3cv33.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv33.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 
 </details>
@@ -509,6 +528,25 @@ Test:
 
 [Archivo: Modelos_Secuencial/TFM_seq_3cv29.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv29.ipynb) <sub>New Tab CTRL+Clik</sub>
 
+### Modelo Adam 15
+*   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
+*   Activación LeakyReLU(alpha=0.1)
+*   Loss MSLE
+*   Métrica MAE
+*   Adam Learning Rate 1e-6
+*   2000 epochs
+
+
+Validación:
+*   loss (mse): 3.1211e-06  
+*   mean_absolute_error: 0.0023 
+
+Test:
+*   loss (mse): 9.7463e-04 
+*   mean_absolute_error: 0.0013 
+
+[Archivo: Modelos_Secuencial/TFM_seq_3cv32.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Secuencial/TFM_seq_3cv32.ipynb) <sub>New Tab CTRL+Clik</sub>
+
 
 </details>
 
@@ -685,6 +723,189 @@ Mejor modelo:
 *   Test MAE: NaN
 
 [Archivo: Modelos_Schnet/SchNet_H2O_7.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_7.ipynb) <sub>New Tab CTRL+Clik</sub>
+
+### Modelo SchNet  6
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.000447
+*   Validation Loss (mse): 3.2e-05
+*   Validation MAE: 0.003575
+
+Mejor modelo:
+*   Validación MAE: 0.003342
+*   Test MAE: 0.003324
+
+[Archivo: Modelos_Schnet/SchNet_H2O_3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_3.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  7
+*   n_atom_basis=30
+*   n_filters=30
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-7
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.000463
+*   Validation Loss (mse): 6.9e-05
+*   Validation MAE: 0.005843
+
+Mejor modelo:
+*   Validación MAE: 0.005419
+*   Test MAE: 0.006022
+
+[Archivo: Modelos_Schnet/SchNet_H2O_5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_5.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  8
+*   n_atom_basis=30
+*   n_filters=5
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=HardCutoff
+*   SGD 1e-4 momentum=0.0
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): NaN
+*   Validation Loss (mse): NaN
+*   Validation MAE: NaN
+
+Mejor modelo:
+*   Validación MAE: NaN
+*   Test MAE: NaN
+
+[Archivo: Modelos_Schnet/SchNet_H2O_8.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_8.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  9
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=20
+*   n_interactions=7
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.000492
+*   Validation Loss (mse): 9.7e-05
+*   Validation MAE: 0.006665
+
+Mejor modelo:
+*   Validación MAE: 0.005959
+*   Test MAE: 0.006080
+
+[Archivo: Modelos_Schnet/SchNet_H2O_9.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_9.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  10
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=25
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.00051
+*   Validation Loss (mse): 7.2e-05
+*   Validation MAE: 0.005754
+
+Mejor modelo:
+*   Validación MAE: 0.005723
+*   Test MAE: 0.005729
+
+[Archivo: Modelos_Schnet/SchNet_H2O_10.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_10.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  11
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=15
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.00074
+*   Validation Loss (mse): 0.000304
+*   Validation MAE: 0.012596
+
+Mejor modelo:
+*   Validación MAE: 0.012485
+*   Test MAE: 0.011284
+
+[Archivo: Modelos_Schnet/SchNet_H2O_11.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_11.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  12
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=20
+*   n_interactions=3
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.00077
+*   Validation Loss (mse): 0.000324
+*   Validation MAE: 0.013565
+
+Mejor modelo:
+*   Validación MAE: 0.013731
+*   Test MAE: 0.013398
+
+[Archivo: Modelos_Schnet/SchNet_H2O_12.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_12.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  13
+*   n_atom_basis=30
+*   n_filters=10
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=3.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.000509
+*   Validation Loss (mse): 9.3e-05
+*   Validation MAE: 0.006782
+
+Mejor modelo:
+*   Validación MAE: 0.006769
+*   Test MAE: 0.007275
+
+[Archivo: Modelos_Schnet/SchNet_H2O_13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_13.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SchNet  14
+*   n_atom_basis=30
+*   n_filters=4
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=HardCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 0.000688
+*   Validation Loss (mse): 0.000386
+*   Validation MAE: 0.01282
+
+Mejor modelo:
+*   Validación MAE: 0.012527
+*   Test MAE: 0.011974
+
+[Archivo: Modelos_Schnet/SchNet_H2O_14.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Schnet/SchNet_H2O_14.ipynb) <sub>New Tab CTRL+Clik</sub>
+
+
 
 
 </details>
