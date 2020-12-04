@@ -128,7 +128,7 @@ Test:
 *   loss (mse): 4.6974e-04 
 *   mean_absolute_error: 0.0018 
 
-[Archivo: Modelos Keras Secuenciales/TFM_seq_3cv13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos Keras Secuenciales/TFM_seq_3cv13.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos Keras Secuenciales/TFM_seq_3cv13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos%20Keras%20Secuenciales/TFM_seq_3cv13.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 8
 *   6 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
 *   Activación 'Relu'
