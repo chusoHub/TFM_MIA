@@ -634,7 +634,7 @@ Mejor modelo:
 *   Validación MAE: 0.005676
 *   Test MAE: 0.005525
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_6.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_6.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_6.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  2
 *   n_atom_basis=30
 *   n_filters=30
@@ -656,7 +656,7 @@ Mejor modelo:
 *   Validación MAE: 0.004171
 *   Test MAE: 0.004202
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_1.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_1.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_1.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  3
 *   n_atom_basis=30
 *   n_filters=30
@@ -678,7 +678,7 @@ Mejor modelo:
 *   Validación MAE: 0.005361
 *   Test MAE: 0.004378
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_4.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_4.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_4.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  4
 *   n_atom_basis=60
 *   n_filters=60
@@ -700,7 +700,7 @@ Mejor modelo:
 *   Validación MAE: 0.010837
 *   Test MAE: 0.010328
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_2.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_2.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_2.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  5
 *   n_atom_basis=30
 *   n_filters=30
@@ -722,7 +722,7 @@ Mejor modelo:
 *   Validación MAE: NaN
 *   Test MAE: NaN
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_7.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_7.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_7.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_7.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 ### Modelo SchNet  6
 *   n_atom_basis=30
@@ -743,7 +743,7 @@ Mejor modelo:
 *   Validación MAE: 0.003342
 *   Test MAE: 0.003324
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_3.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_3.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_3.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  7
 *   n_atom_basis=30
 *   n_filters=30
@@ -763,7 +763,7 @@ Mejor modelo:
 *   Validación MAE: 0.005419
 *   Test MAE: 0.006022
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_5.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_5.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_5.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  8
 *   n_atom_basis=30
 *   n_filters=5
@@ -783,7 +783,7 @@ Mejor modelo:
 *   Validación MAE: NaN
 *   Test MAE: NaN
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_8.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_8.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_8.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_8.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  9
 *   n_atom_basis=30
 *   n_filters=10
@@ -803,7 +803,7 @@ Mejor modelo:
 *   Validación MAE: 0.005959
 *   Test MAE: 0.006080
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_9.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_9.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_9.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_9.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  10
 *   n_atom_basis=30
 *   n_filters=10
@@ -823,7 +823,7 @@ Mejor modelo:
 *   Validación MAE: 0.005723
 *   Test MAE: 0.005729
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_10.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_10.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_10.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_10.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  11
 *   n_atom_basis=30
 *   n_filters=10
@@ -843,7 +843,7 @@ Mejor modelo:
 *   Validación MAE: 0.012485
 *   Test MAE: 0.011284
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_11.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_11.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_11.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_11.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  12
 *   n_atom_basis=30
 *   n_filters=10
@@ -863,7 +863,7 @@ Mejor modelo:
 *   Validación MAE: 0.013731
 *   Test MAE: 0.013398
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_12.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_12.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_12.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_12.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  13
 *   n_atom_basis=30
 *   n_filters=10
@@ -883,7 +883,7 @@ Mejor modelo:
 *   Validación MAE: 0.006769
 *   Test MAE: 0.007275
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_13.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_13.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_13.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  14
 *   n_atom_basis=30
 *   n_filters=4
@@ -903,7 +903,7 @@ Mejor modelo:
 *   Validación MAE: 0.012527
 *   Test MAE: 0.011974
 
-[Archivo: Modelos_Keras_Secuenciales/SchNet_H2O_14.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/SchNet_H2O_14.ipynb) <sub>New Tab CTRL+Clik</sub>
+[Archivo: Modelos_SchNet/SchNet_H2O_14.ipynb](https://nbviewer.jupyter.org/github/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/SchNet_H2O_14.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 
 
