@@ -208,12 +208,12 @@ Test:
 *   Reentrenamiento 1e-4, 25 epochs
 
 Validación:
-*   loss (mse): 9.1313e-06 
+*   loss (mse): 9.2066e-06
 *   mean_absolute_error: 0.0010
 
 Test:
-*   loss (mse): 9.2066e-06 
-*   mean_absolute_error: 0.0010
+*   loss (mse): 4.7189e-04 
+*   mean_absolute_error: 0.0015
 
 [Archivo: Modelos_Keras_Secuenciales/keras_seq_sgd_12.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_sgd_12.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SGD 13
@@ -270,6 +270,25 @@ Test:
 *   mean_absolute_error: 0.0014 
 
 [Archivo: Modelos_Keras_Secuenciales/keras_seq_sgd_15.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_sgd_15.ipynb) <sub>New Tab CTRL+Clik</sub>
+### Modelo SGD 16
+*   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
+*   Activación LeakyReLU(alpha=0.1)
+*   Loss MSE
+*   Métrica MAE
+*   SGD Learning Rate 1e-2 Momentum 0.0
+*   ReduceLrEarlyStoppingBest 1e-6
+*   5000 epochs
+
+
+Validación:
+*   loss (mse): 0.0011
+*   mean_absolute_error: 1.0106e-05
+
+Test:
+*   loss (msle): 4.7435e-04
+*   mean_absolute_error: 0.0016
+
+[Archivo: Modelos_Keras_Secuenciales/keras_seq_sgd_16.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_sgd_16.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 
 </details>
@@ -547,6 +566,45 @@ Test:
 
 [Archivo: Modelos_Keras_Secuenciales/keras_seq_adam_15.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_adam_15.ipynb) <sub>New Tab CTRL+Clik</sub>
 
+### Modelo Adam 16
+*   5 capas ocultas densas de 500, 1000, 1000, 2000, 2000 unidades
+*   Activación LeakyReLU(alpha=0.1)
+*   Loss MSE
+*   Métrica MAE
+*   Adam Learning Rate 1e-4
+*   ReduceLrEarlyStoppingBest 1e-10
+*   5000 epochs
+
+Validación:
+*   loss (mse): 3.6459e-07
+*   mean_absolute_error: 3.5422e-04
+
+Test:
+*   loss (mse): 0.0011
+*   mean_absolute_error: 0.0023
+
+[Archivo: Modelos_Keras_Secuenciales/keras_seq_adam_16.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_adam_16.ipynb) <sub>New Tab CTRL+Clik</sub>
+
+### Modelo Adam 17
+*   5 capas ocultas densas de 200, 500, 500, 1000, 1000, 2000 unidades
+*   Activación LeakyReLU(alpha=0.1)
+*   Loss MSE
+*   Métrica MAE
+*   Adam Learning Rate 1e-2
+*   15 epochs
+*   Reentrenamiento 1e-4 50
+*   Reentrenamiento 1e-6 1500
+
+Validación:
+*   loss (mse): 2.8956e-05
+*   mean_absolute_error: 0.0033
+
+Test:
+*   loss (mse): 0.0015
+*   mean_absolute_error: 0.0246
+
+[Archivo: Modelos_Keras_Secuenciales/keras_seq_adam_17.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_adam_17.ipynb) <sub>New Tab CTRL+Clik</sub>
+
 
 </details>
 
@@ -626,13 +684,13 @@ Test:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000496
-*   Validation Loss (mse): 7.2e-05
-*   Validation MAE: 0.005677
+*   Train Loss (mse): 0.000449
+*   Validation Loss (mse): 4.7e-05
+*   Validation MAE:  0.004662
 
 Mejor modelo:
-*   Validación MAE: 0.005676
-*   Test MAE: 0.005525
+*   Validación MAE: 0.003593
+*   Test MAE: 0.003493
 
 [Archivo: Modelos_SchNet/schnet_1.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_1.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  2
@@ -648,13 +706,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000467
-*   Validation Loss (mse): 4.4e-05
-*   Validation MAE: 0.004237
+*   Train Loss (mse): 0.000441
+*   Validation Loss (mse): 3.8e-05
+*   Validation MAE: 0.003866
 
 Mejor modelo:
-*   Validación MAE: 0.004171
-*   Test MAE: 0.004202
+*   Validación MAE: 0.003486
+*   Test MAE: 0.003183
 
 [Archivo: Modelos_SchNet/schnet_2.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_2.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  3
