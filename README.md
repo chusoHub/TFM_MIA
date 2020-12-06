@@ -557,11 +557,11 @@ Test:
 
 
 Validación:
-*   loss (mse): 3.1211e-06  
+*   loss (msle): 3.1211e-06  
 *   mean_absolute_error: 0.0023 
 
 Test:
-*   loss (mse): 9.7463e-04 
+*   loss (msle): 9.7463e-04 
 *   mean_absolute_error: 0.0013 
 
 [Archivo: Modelos_Keras_Secuenciales/keras_seq_adam_15.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_Keras_Secuenciales/keras_seq_adam_15.ipynb) <sub>New Tab CTRL+Clik</sub>
@@ -671,7 +671,7 @@ Test:
 <details>
 <summary>Listado</summary>
 
-### Modelo SchNet  1
+### Modelo SchNet 1
 *   n_atom_basis=30
 *   n_filters=30
 *   n_gaussians=20
@@ -693,7 +693,7 @@ Mejor modelo:
 *   Test MAE: 0.003493
 
 [Archivo: Modelos_SchNet/schnet_1.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_1.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  2
+### Modelo SchNet 2
 *   n_atom_basis=30
 *   n_filters=30
 *   n_gaussians=20
@@ -715,7 +715,7 @@ Mejor modelo:
 *   Test MAE: 0.003183
 
 [Archivo: Modelos_SchNet/schnet_2.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_2.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  3
+### Modelo SchNet 3
 *   n_atom_basis=30
 *   n_filters=30
 *   n_gaussians=20
@@ -737,7 +737,7 @@ Mejor modelo:
 *   Test MAE: 0.006842
 
 [Archivo: Modelos_SchNet/schnet_3.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_3.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  4
+### Modelo SchNet 4
 *   n_atom_basis=60
 *   n_filters=60
 *   n_gaussians=20
@@ -759,7 +759,7 @@ Mejor modelo:
 *   Test MAE: 0.006875
 
 [Archivo: Modelos_SchNet/schnet_4.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_4.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  5
+### Modelo SchNet 5
 *   n_atom_basis=30
 *   n_filters=30
 *   n_gaussians=20
@@ -782,7 +782,7 @@ Mejor modelo:
 
 [Archivo: Modelos_SchNet/schnet_5.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_5.ipynb) <sub>New Tab CTRL+Clik</sub>
 
-### Modelo SchNet  6
+### Modelo SchNet 6
 *   n_atom_basis=30
 *   n_filters=10
 *   n_gaussians=20
@@ -802,7 +802,7 @@ Mejor modelo:
 *   Test MAE: 0.003460
 
 [Archivo: Modelos_SchNet/schnet_6.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_6.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  7
+<!--### Modelo SchNet  7
 *   n_atom_basis=30
 *   n_filters=30
 *   n_gaussians=20
@@ -810,19 +810,42 @@ Mejor modelo:
 *   cutoff=4.
 *   cutoff_network=CosineCutoff
 *   Adam 1e-2
-*   ReduceLROnPlateauHook hasta 1e-7
+*   ReduceLROnPlateauHook hasta 1e-6
+*   Loss MSLE
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000463
-*   Validation Loss (mse): 6.9e-05
-*   Validation MAE: 0.005843
+*   Train Loss (msle): 
+*   Validation Loss (msle): 
+*   Validation MAE: 
 
 Mejor modelo:
-*   Validación MAE: 0.005419
-*   Test MAE: 0.006022
+*   Validación MAE: 
+*   Test MAE: 
+
+[Archivo: Modelos_SchNet/schnet_7.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_7.ipynb) <sub>New Tab CTRL+Clik</sub>-->
+
+### Modelo SchNet 7
+*   n_atom_basis=20
+*   n_filters=30
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-2
+*   ReduceLROnPlateauHook hasta 1e-6
+
+Modelo final entrenamiento:
+*   Train Loss (mse): 
+*   Validation Loss (mse): 
+*   Validation MAE: 
+
+Mejor modelo:
+*   Validación MAE: 
+*   Test MAE: 
 
 [Archivo: Modelos_SchNet/schnet_7.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_7.ipynb) <sub>New Tab CTRL+Clik</sub>
-### Modelo SchNet  8
+
+### Modelo SchNet 8
 *   n_atom_basis=30
 *   n_filters=5
 *   n_gaussians=20
@@ -853,13 +876,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000492
-*   Validation Loss (mse): 9.7e-05
-*   Validation MAE: 0.006665
+*   Train Loss (mse): 0.000724
+*   Validation Loss (mse): 0.000303
+*   Validation MAE: 0.012093
 
 Mejor modelo:
-*   Validación MAE: 0.005959
-*   Test MAE: 0.006080
+*   Validación MAE: 0.011866
+*   Test MAE: 0.012190
 
 [Archivo: Modelos_SchNet/schnet_9.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_9.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  10
@@ -873,13 +896,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.00051
-*   Validation Loss (mse): 7.2e-05
-*   Validation MAE: 0.005754
+*   Train Loss (mse): 0.000505
+*   Validation Loss (mse): 0.000117
+*   Validation MAE: 0.007442
 
 Mejor modelo:
-*   Validación MAE: 0.005723
-*   Test MAE: 0.005729
+*   Validación MAE: 0.007177
+*   Test MAE: 0.007547
 
 [Archivo: Modelos_SchNet/schnet_10.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_10.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  11
@@ -963,7 +986,25 @@ Mejor modelo:
 
 [Archivo: Modelos_SchNet/schnet_14.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_14.ipynb) <sub>New Tab CTRL+Clik</sub>
 
+### Modelo SchNet  15
+*   n_atom_basis=30
+*   n_filters=30
+*   n_gaussians=20
+*   n_interactions=5
+*   cutoff=4.
+*   cutoff_network=CosineCutoff
+*   Adam 1e-4
+*   ReduceLROnPlateauHook hasta 1e-6
 
+Modelo final entrenamiento:
+*   Train Loss (mse): 
+*   Validation Loss (mse): 
+*   Validation MAE: 
 
+Mejor modelo:
+*   Validación MAE: 
+*   Test MAE: 
+
+[Archivo: Modelos_SchNet/schnet_15.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_15.ipynb) <sub>New Tab CTRL+Clik</sub>
 
 </details>
