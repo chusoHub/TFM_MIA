@@ -835,13 +835,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 
-*   Validation Loss (mse): 
-*   Validation MAE: 
+*   Train Loss (mse):  0.000478
+*   Validation Loss (mse): 5.1e-05
+*   Validation MAE: 0.004724
 
 Mejor modelo:
-*   Validación MAE: 
-*   Test MAE: 
+*   Validación MAE: 0.004733
+*   Test MAE: 0.005014
 
 [Archivo: Modelos_SchNet/schnet_7.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_7.ipynb) <sub>New Tab CTRL+Clik</sub>
 
@@ -916,13 +916,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.00074
-*   Validation Loss (mse): 0.000304
-*   Validation MAE: 0.012596
+*   Train Loss (mse): 0.00048
+*   Validation Loss (mse): 5.3e-05
+*   Validation MAE: 0.004568
 
 Mejor modelo:
-*   Validación MAE: 0.012485
-*   Test MAE: 0.011284
+*   Validación MAE: 0.004423
+*   Test MAE: 0.004422
 
 [Archivo: Modelos_SchNet/schnet_11.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_11.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  12
@@ -936,13 +936,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.00077
-*   Validation Loss (mse): 0.000324
-*   Validation MAE: 0.013565
+*   Train Loss (mse): 0.000483
+*   Validation Loss (mse): 9.9e-05
+*   Validation MAE: 0.00697
 
 Mejor modelo:
-*   Validación MAE: 0.013731
-*   Test MAE: 0.013398
+*   Validación MAE: 0.006397
+*   Test MAE: 0.006441
 
 [Archivo: Modelos_SchNet/schnet_12.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_12.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  13
@@ -956,13 +956,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000509
-*   Validation Loss (mse): 9.3e-05
-*   Validation MAE: 0.006782
+*   Train Loss (mse): 0.000468
+*   Validation Loss (mse): 5.2e-05
+*   Validation MAE: 0.005068
 
 Mejor modelo:
-*   Validación MAE: 0.006769
-*   Test MAE: 0.007275
+*   Validación MAE: 0.004998
+*   Test MAE: 0.005234
 
 [Archivo: Modelos_SchNet/schnet_13.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_13.ipynb) <sub>New Tab CTRL+Clik</sub>
 ### Modelo SchNet  14
@@ -996,14 +996,14 @@ Mejor modelo:
 *   Adam 1e-4
 *   ReduceLROnPlateauHook hasta 1e-6
 
-Modelo final entrenamiento:
-*   Train Loss (mse): 
-*   Validation Loss (mse): 
-*   Validation MAE: 
+Modelo final entrenamiento: 
+*   Train Loss (mse): 0.001561
+*   Validation Loss (mse): 0.000982
+*   Validation MAE: 0.023362
 
 Mejor modelo:
-*   Validación MAE: 
-*   Test MAE: 
+*   Validación MAE: 0.021679
+*   Test MAE: 0.023327
 
 [Archivo: Modelos_SchNet/schnet_15.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_15.ipynb) <sub>New Tab CTRL+Clik</sub>
 
