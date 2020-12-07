@@ -976,13 +976,13 @@ Mejor modelo:
 *   ReduceLROnPlateauHook hasta 1e-6
 
 Modelo final entrenamiento:
-*   Train Loss (mse): 0.000688
-*   Validation Loss (mse): 0.000386
-*   Validation MAE: 0.01282
+*   Train Loss (mse): 0.000605
+*   Validation Loss (mse): 0.000194
+*   Validation MAE: 0.009697
 
 Mejor modelo:
-*   Validación MAE: 0.012527
-*   Test MAE: 0.011974
+*   Validación MAE: 0.009563
+*   Test MAE: 0.008450
 
 [Archivo: Modelos_SchNet/schnet_14.ipynb](https://github.com/chusoHub/TFM_MIA/blob/main/Modelos_SchNet/schnet_14.ipynb) <sub>New Tab CTRL+Clik</sub>
 
